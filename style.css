@@ -1,0 +1,116 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ou{
+    position: relative;
+    left: 60%;
+    width: 150px;
+
+    
+}
+.input{
+   position: relative;
+   left: 60%;
+   width: 80px;
+}
+.one{
+    background-color: aquamarine;
+  
+    text-align: center;
+    height: 200px;
+    padding: 40px;
+    font-size: x-large;
+
+}
+.in{
+    color: rgb(12, 32, 89);
+    background-color: rgb(160, 177, 143);
+    width: 90px;
+    height: 42px;
+    font-size: medium;
+}
+.ui{
+    padding: 20px;
+    text-align: center;
+    font-size: larger;
+}
+.ui p{
+    padding: 10px;
+}
+.row{
+    display: flex;
+    
+ 
+}
+.box{
+    padding: 2px;
+}
+.box img{
+    width: 450px;
+    height: 500px;
+    padding: 20px;
+    
+    border: 6px solid rgb(234, 234, 182);
+   
+
+}
+.box p{
+    text-align: justify;
+    padding: 20px;
+}
+.box h4{
+    font-size: larger;
+    color: rgb(235, 107, 34);
+    text-align: center;
+    padding: 10px;
+
+}
+.row1{
+    display: flex;
+    background-color: rgb(143, 207, 218);
+   padding: 50px;
+    text-align: center;
+    height: 300px;
+
+}
+.col1 img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+     
+    
+   
+
+}
+.col1 h4{
+    color: rgb(55, 7, 7);
+    font-size: larger;
+}
+.col1 p{
+    text-align: justify;
+    padding: 20px;
+}
+.col1 button{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(187, 243, 245);
+   
+}
+.col1 button a{
+    text-decoration: none;
+    color: rgb(5, 72, 72);
+    font-size: 18px;
+  
+}
+
+.lo{
+    text-align: center;
+    padding: 20px;
+    
+}
+.lo a{
+    text-decoration: none;
+    color: rgb(220, 18, 18);
+}
